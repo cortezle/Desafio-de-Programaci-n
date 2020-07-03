@@ -117,7 +117,7 @@ public class Componentes extends javax.swing.JFrame {
 
         jLabel2.setBackground(new java.awt.Color(51, 51, 51));
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/psychoapp/resources/0003.jpg"))); // NOI18N
-        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 800, 450));
+        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 800, 430));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
